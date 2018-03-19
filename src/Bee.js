@@ -6,6 +6,3 @@ class Bee extends Grub {
   	this.job = 'Keep on growing';
   }
 };
-
-// install bower
-// some kind of inheritance statment I need to look up
